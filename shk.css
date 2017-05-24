@@ -1,0 +1,65 @@
+h1,h2,h3,h4{
+
+    				  color: #6F94FF;
+    				  font-family: cursive;
+    				  font-size: 30px;
+
+    			}
+    		ul{
+    			display: inline-table;
+    		}
+
+			li {
+					  color: #93508e;					  
+					  font-family: cursive;
+					  font-size: 15px;
+					  text-align: center;
+					  
+				}
+			table{
+					  color: #93508e;					  
+					  font-family: cursive;
+					  font-size: 15px;
+					  text-align: center;
+
+
+			}
+
+			.head{		
+					   overflow-y: auto;
+				 	   background-color: rgba(200, 222, 162, 0.6);
+					   left: 0;
+				 	   top: 0;
+				 	   text-align: center;
+				  	   width: 100%;
+				 	   z-index: 10000;
+				 }
+			.to{
+					font-size: 20px;
+					display: all;
+				
+			}	 
+			.nom{
+					font-size: 33px
+					inline-block;
+			}
+			
+			.corps{
+				    width: auto;
+				    padding: auto;
+				    display: inline-block;
+				    
+			}
+			.forme{
+					width: 400px;
+					padding: 15px;
+					display: inline-block;
+					
+
+
+			}
+			.exper{
+					width: 400px;
+					padding:15px;
+					display: inline-block;
+			}
